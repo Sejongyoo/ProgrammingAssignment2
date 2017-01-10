@@ -1,3 +1,5 @@
+The submission of the 2nd assignment for R programming. 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
